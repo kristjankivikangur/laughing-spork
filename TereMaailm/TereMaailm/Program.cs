@@ -11,6 +11,7 @@ namespace TereMaailm
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Tere Maailm.");
+			Console.WriteLine("Tervitused GitHubist");
 		}
 	}
 }
