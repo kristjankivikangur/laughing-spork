@@ -13,6 +13,7 @@ namespace TereMaailm
 			Console.WriteLine("Tere Maailm.");
 			Console.WriteLine("Tervitused GitHubist");
 			Console.WriteLine("Minu poolt samuti. Tervist.");
+			Tervitaja.Tervita("Maailm");
 		}
 	}
 }
