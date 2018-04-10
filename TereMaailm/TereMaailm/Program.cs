@@ -14,6 +14,7 @@ namespace TereMaailm
 			Console.WriteLine("Tervitused GitHubist");
 			Console.WriteLine("Minu poolt samuti. Tervist.");
 			Tervitaja.Tervita("Maailm");
+			Tervitaja.Tervita(new string[] { "Kristjan", "Jaan", "Toomas" });
 		}
 	}
 }
